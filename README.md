@@ -25,3 +25,4 @@ cd ghost-cursor
 cargo build --release
 
 
+# ghost-cursor
