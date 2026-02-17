@@ -1,3 +1,5 @@
+![Luminous Audit](https://img.shields.io/badge/Luminous-Audited-blueviolet?style=for-the-badge&logo=ghost)
+
 # 👻 GhostCursor
 > A local-first, AI-augmented terminal wrapper for Kali Linux.
 
